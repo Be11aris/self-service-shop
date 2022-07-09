@@ -5,8 +5,8 @@ App({
     productId: "JA4SVWGJZC", // 产品ID
     deviceName: "hi3861", // 设备名称
     // 腾讯云控制台-访问管理-访问密钥-API密钥管理中获取 SecretId, SecretKey
-    secretId: "AKID62i8IBn9E2ZppY0C9pEMEo78tNaV9JCo",
-    secretKey: "MTJRKwHL8droUs0rRkmX1E9nBI8hz0kE",
+    secretId: "使用自己的ID",
+    secretKey: "使用自己的秘钥",
   },
   onLaunch: function () {
     if (!wx.cloud) {
